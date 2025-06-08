@@ -1,0 +1,10 @@
+release/bulletblue.o
+release/car.o
+release/main.o
+release/pl767.o
+release/supply.o
+release/tower1.o
+release/widget.o
+release/qrc_music.o
+release/qrc_resource.o
+release/moc_widget.o
